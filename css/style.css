@@ -1,0 +1,40 @@
+.title{
+	color: blue;
+	text-align: center;
+	font-size: 50px;
+}
+.container{
+	text-align: center;
+	background-color: yellow;
+	width: 1200px;
+	 margin: auto;
+}
+.red{
+	color: red;
+	font-size: 40px;
+}
+.green{
+	color: green;
+	font-size: 30px;
+}
+.purple{
+	color: purple;
+	font-size: 20px;
+}
+.dotfuck{
+	width: 1200px;
+	margin: auto;
+}
+.aa{
+	width: 33.33%;
+	height: 250px;
+	float: left;
+}
+.bb{
+	padding: 15px;
+}
+img{
+	max-width: 100%;
+	border-radius: 5px;
+	box-shadow: -15px 9px 16px 0px #5b5d6d;
+}
